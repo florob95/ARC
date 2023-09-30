@@ -1,0 +1,27 @@
+[submodule "observise"]
+	path = observise
+	url = https://github.com/florob95/observise
+[submodule "go-template-api"]
+	path = go-template-api
+	url = https://github.com/florob95/go-template-api
+[submodule "routing-controllers"]
+	path = routing-controllers
+	url = https://github.com/florob95/routing-controllers
+[submodule "nodejs-typescript-template"]
+	path = nodejs-typescript-template
+	url = https://github.com/florob95/nodejs-typescript-template
+[submodule "node-logger"]
+	path = node-logger
+	url = https://github.com/florob95/node-logger
+[submodule "hello-esm-cjs"]
+	path = hello-esm-cjs
+	url = https://github.com/florob95/hello-esm-cjs
+[submodule "tsc-cross-build"]
+	path = tsc-cross-build
+	url = https://github.com/florob95/tsc-cross-build
+[submodule "caller"]
+	path = caller
+	url = https://github.com/awfl-team/caller
+[submodule "test-kv"]
+	path = test-kv
+	url = https://github.com/florob95/test-kv
